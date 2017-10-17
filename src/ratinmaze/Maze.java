@@ -7,8 +7,8 @@ package ratinmaze;
 
 /**
  *
- * @author Publisher
+ * @author okeebroo
  */
-class MyinputStream {
+public class Maze {
     
 }
